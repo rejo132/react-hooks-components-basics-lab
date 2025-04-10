@@ -1,0 +1,23 @@
+/* src/components/App.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    background: #333;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+div[id="home"], div[id="about"] {
+    margin: 20px;
+}
+
+h1, h2 {
+    color: #333;
+}
